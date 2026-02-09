@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "Standalone graded Jest workshop",
   "scripts": {
-    "test": "jest",
-    "start" : "node src/example.test.js"
+    "test": "jest"
   },
   "devDependencies": {
     "jest": "^29.7.0"
