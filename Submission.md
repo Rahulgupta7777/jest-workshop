@@ -45,5 +45,5 @@ List each test you wrote and briefly explain **what bug or regression it prevent
 ## Reflection (1–2 lines)
 What is **one thing** you understood better about testing or CI after this workshop?
 
-I  better how to write effective unit tests using Jest and how to set up a CI pipeline using GitHub Actions to automate the testing process.
+I understood better how to write effective unit tests using Jest and how to set up a CI pipeline using GitHub Actions to automate the testing process.
 
