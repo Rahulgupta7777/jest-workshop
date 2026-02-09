@@ -38,12 +38,12 @@ List each test you wrote and briefly explain **what bug or regression it prevent
 
 ## CI Pipeline (if implemented)
 - Did CI pass successfully? (Yes / No): Yes
-- GitHub Actions Run URL: 
+- GitHub Actions Run URL:  `https://github.com/Rahulgupta7777/jest-workshop/actions`
 
 ---
 
 ## Reflection (1–2 lines)
 What is **one thing** you understood better about testing or CI after this workshop?
 
-I understood the importance of writing comprehensive tests to cover various edge cases and how CI can automate the testing process to ensure code quality before merging changes.
+I  better how to write effective unit tests using Jest and how to set up a CI pipeline using GitHub Actions to automate the testing process.
 
